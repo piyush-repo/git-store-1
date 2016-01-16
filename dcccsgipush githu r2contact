@@ -1,0 +1,36 @@
+[33mcommit 7d360ff7b6960c7ff9cd330ef96ec2ebaec28e51[m
+Author: piyush <piyush.rvk@gmail.com>
+Date:   Sat Jan 16 10:33:09 2016 +0530
+
+    contacts modified
+
+[33mcommit 8fcaa41533ba54099a813a391aa93e1697cea4cd[m
+Merge: 8c294cb ca22546
+Author: piyush <piyush.rvk@gmail.com>
+Date:   Sat Jan 16 10:24:44 2016 +0530
+
+    Merge branch 'master' of github.com:piyush-repo/git-store-1 into r2_contacts
+
+[33mcommit ca225466ab9f77e40a8a1405b7a2d2f9e1511671[m
+Author: piyush <piyush.rvk@gmail.com>
+Date:   Sat Jan 16 10:12:50 2016 +0530
+
+    index added
+
+[33mcommit 8c294cb71be97d472c0a1bab65d71d2d32d702a8[m
+Author: piyush <piyush.rvk@gmail.com>
+Date:   Thu Jan 14 12:38:11 2016 +0530
+
+    contacts added
+
+[33mcommit 34d099307076b513a3c800f8a9c598b78718f563[m
+Author: piyush <piyush.rvk@gmail.com>
+Date:   Thu Jan 14 12:11:45 2016 +0530
+
+    new html file added
+
+[33mcommit 9c97e09612e3b677035a0d2764660041b9780a89[m
+Author: piyush <piyush.rvk@gmail.com>
+Date:   Thu Jan 14 11:59:28 2016 +0530
+
+    commit of gitstore1
